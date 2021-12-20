@@ -12,11 +12,6 @@ originalement fait sur mon ancien github
     - Gwenaëlle DEPART
     - Cédric SULTAN
 
-Nous avons implémenté:
-- tout ce qui est dans le cahier des charges, y compris les bonus
-
-Les problèmes que nous avons eu:
-- Les fonctions removeAccents proposées sur internet ne fonctionnent pas selon l'encodage donc nous avons codé une solution adaptée au dictionnaire français.
 
 Les ressources que nous avons consultées:
 - [page wikipedia des arbres préfixes](<https://fr.wikipedia.org/wiki/Trie_(informatique)>)
